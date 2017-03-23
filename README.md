@@ -1,6 +1,5 @@
 # linux-demo
-Linux系统中的各种机制的demo程序
-
+Linux系统中的各种机制的demo程序, 尽量通过代码来理解操作系统
 # TO DO LIST
   * shared memory
   * pipeline
